@@ -1,12 +1,17 @@
 {
   "name": "chrome-extention-bard",
   "description": "A chrome extention for bard",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest_version": 3,
   "author": "NaoyaTatetsu",
   "background": {
     "service_worker": "dist/index.js"
   },
   "action": {},
-  "permissions": ["storage", "tabs"]
+  "permissions": ["storage", "tabs"],
+  "icons": {
+    "16": "assets/google_bard_logo.png",
+    "48": "assets/google_bard_logo.png",
+    "128": "assets/google_bard_logo.png"
+  }
 }
