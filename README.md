@@ -11,3 +11,21 @@
 4. Click on Load Unpacked.
 
 5. Upload chrome-extention-bard file.
+
+## Development
+### Environment
+- Node v18.0.0
+
+### Settings
+- Install npm packages
+```
+npm install
+```
+- Run linter
+```
+npm run lint
+```
+- Build
+```
+npm run build
+```
