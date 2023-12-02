@@ -20,7 +20,7 @@ git clone git@github.com:NaoyaTatetsu/chrome-extention-bard.git
 ### Environment
 - Node v18.0.0
 
-### Settings
+### Getting started
 - Install npm packages
 ```
 npm install
