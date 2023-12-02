@@ -1,5 +1,5 @@
 # chrome-extention-bard
-Chrome extention for opening bard by one clicked
+Chrome extention for opening bard by one clicked.
 
 ## Add to chrome extention
 1. Clone this repository with below command.  
