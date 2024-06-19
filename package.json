@@ -24,7 +24,7 @@
   "homepage": "https://github.com/NaoyaTatetsu/chrome-extention-bard#readme",
   "devDependencies": {
     "@types/chrome": "^0.0.267",
-    "@types/node": "^20.12.7",
+    "@types/node": "^20.13.0",
     "husky": "^9.0.11",
     "typescript": "^5.4.5"
   },
